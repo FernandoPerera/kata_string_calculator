@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.katadiados.StringCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-03-15T13:31:42" hostname="DESKTOP-AUO9ALU" time="0.03">
+  <properties/>
+  <testcase name="give_one_number_return_the_same_number()" classname="org.katadiados.StringCalculatorTest" time="0.018"/>
+  <testcase name="give_empty_string_return_zero()" classname="org.katadiados.StringCalculatorTest" time="0.0"/>
+  <testcase name="give_numbers_with_coma_and_line_break_return_their_sum()" classname="org.katadiados.StringCalculatorTest" time="0.001"/>
+  <testcase name="give_delimiter_and_numbers_return_their_sum()" classname="org.katadiados.StringCalculatorTest" time="0.001"/>
+  <testcase name="give_numbers_bigger_than_1000_and_ignore_then_return_sum_of_the_rest_numbers()" classname="org.katadiados.StringCalculatorTest" time="0.0"/>
+  <testcase name="give_numbers_return_their_sum()" classname="org.katadiados.StringCalculatorTest" time="0.0"/>
+  <testcase name="give_negative_numbers_return_throw_error()" classname="org.katadiados.StringCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
